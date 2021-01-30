@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nano&#39;s Blog</title>
+    <link>https://www.nanosector.nl/posts/</link>
+    <description>Recent content in Posts on Nano&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jan 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://www.nanosector.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unforbidden Grounds</title>
+      <link>https://www.nanosector.nl/posts/hello/</link>
+      <pubDate>Sat, 30 Jan 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.nanosector.nl/posts/hello/</guid>
+      <description>Someone who has checked out this site before might have noticed it, for the longest time, had a dreadful &amp;ldquo;403 Forbidden&amp;rdquo; error. Oops.
+The reason for this is pretty simple: I never bothered to set up a site and configure Nginx with it. It tried to access static content, failed because there was no index.html, tried a directory listing, also failed there because it is not configured to allow this and well, there we are.</description>
+    </item>
+    
+  </channel>
+</rss>
