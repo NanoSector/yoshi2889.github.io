@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Nano&#39;s Blog</title>
+    <link>https://www.nanosector.nl/tags/software/</link>
+    <description>Recent content in software on Nano&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 20:09:04 +0100</lastBuildDate><atom:link href="https://www.nanosector.nl/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 10 on old Macs without Boot Camp</title>
+      <link>https://www.nanosector.nl/posts/skip-boot-camp-old-mac/</link>
+      <pubDate>Sun, 28 Feb 2021 20:09:04 +0100</pubDate>
+      
+      <guid>https://www.nanosector.nl/posts/skip-boot-camp-old-mac/</guid>
+      <description>Installing Windows 10 on older Macs is still possible but may be tricky because Apple doesn&amp;rsquo;t officially support this. Boot Camp Assistant has an internal list of Windows 7-only Macs in its Info.plist. With some hackery and foolery you therefore are able to trick it into installing Windows 10 on an otherwise unsupported Mac. Partially.
+I prefer to take the manual route and taking full control over this process. There are a number of hurdles to overcome.</description>
+    </item>
+    
+  </channel>
+</rss>
