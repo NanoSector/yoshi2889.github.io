@@ -6,15 +6,23 @@
     <description>Recent content in Posts on Nano&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 20:09:04 +0100</lastBuildDate><atom:link href="https://www.nanosector.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 19:20:00 +0100</lastBuildDate><atom:link href="https://www.nanosector.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autostarting, auto-updating, rootless Podman containers</title>
+      <link>https://www.nanosector.nl/posts/podman-rootless-autostart/</link>
+      <pubDate>Sun, 16 Jan 2022 19:20:00 +0100</pubDate>
+      
+      <guid>https://www.nanosector.nl/posts/podman-rootless-autostart/</guid>
+      <description>Pods for picky perfectionists</description>
+    </item>
+    
     <item>
       <title>Windows 10 on old Macs without Boot Camp</title>
       <link>https://www.nanosector.nl/posts/skip-boot-camp-old-mac/</link>
       <pubDate>Sun, 28 Feb 2021 20:09:04 +0100</pubDate>
       
       <guid>https://www.nanosector.nl/posts/skip-boot-camp-old-mac/</guid>
-      <description>Installing Windows 10 on older Macs is still possible but may be tricky because Apple doesn&amp;rsquo;t officially support this. Boot Camp Assistant has an internal list of Windows 7-only Macs in its Info.plist. With some hackery and foolery you therefore are able to trick it into installing Windows 10 on an otherwise unsupported Mac. Partially.
-I prefer to take the manual route and taking full control over this process. There are a number of hurdles to overcome.</description>
+      <description>Such a pain...</description>
     </item>
     
     <item>
@@ -23,8 +31,7 @@ I prefer to take the manual route and taking full control over this process. The
       <pubDate>Sat, 30 Jan 2021 15:18:57 +0100</pubDate>
       
       <guid>https://www.nanosector.nl/posts/a-touching-scenario/</guid>
-      <description>Recently I purchased a supposedly faulty A1342 MacBook6,1 (&amp;lsquo;09 13&amp;quot; white MacBook). The listing mentioned it &amp;ldquo;would no longer turn on&amp;rdquo; and the seller tried various things to get it back to life, to no avail. Let&amp;rsquo;s diagnose and fix it!
-Diagnosis: First boot Unboxing the laptop from its original box (what a find!), it indeed did not turn on. The SIL (Sleep Indicator Light) would flash a few times, which according to Apple&amp;rsquo;s website meant the battery was faulty.</description>
+      <description>Mac touchpads are weird and cause issues when missing.</description>
     </item>
     
     <item>
@@ -33,8 +40,7 @@ Diagnosis: First boot Unboxing the laptop from its original box (what a find!), 
       <pubDate>Sat, 30 Jan 2021 12:00:00 +0000</pubDate>
       
       <guid>https://www.nanosector.nl/posts/hello/</guid>
-      <description>Someone who has checked out this site before might have noticed it, for the longest time, had a dreadful &amp;ldquo;403 Forbidden&amp;rdquo; error. Oops.
-The reason for this is pretty simple: I never bothered to set up a site and configure Nginx with it. It tried to access static content, failed because there was no index.html, tried a directory listing, also failed there because it is not configured to allow this and well, there we are.</description>
+      <description>First post ever on this blog!</description>
     </item>
     
   </channel>

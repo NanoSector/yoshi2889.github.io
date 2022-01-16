@@ -13,8 +13,7 @@
       <pubDate>Sat, 30 Jan 2021 15:18:57 +0100</pubDate>
       
       <guid>https://www.nanosector.nl/posts/a-touching-scenario/</guid>
-      <description>Recently I purchased a supposedly faulty A1342 MacBook6,1 (&amp;lsquo;09 13&amp;quot; white MacBook). The listing mentioned it &amp;ldquo;would no longer turn on&amp;rdquo; and the seller tried various things to get it back to life, to no avail. Let&amp;rsquo;s diagnose and fix it!
-Diagnosis: First boot Unboxing the laptop from its original box (what a find!), it indeed did not turn on. The SIL (Sleep Indicator Light) would flash a few times, which according to Apple&amp;rsquo;s website meant the battery was faulty.</description>
+      <description>Mac touchpads are weird and cause issues when missing.</description>
     </item>
     
     <item>
@@ -23,8 +22,7 @@ Diagnosis: First boot Unboxing the laptop from its original box (what a find!), 
       <pubDate>Sat, 30 Jan 2021 12:00:00 +0000</pubDate>
       
       <guid>https://www.nanosector.nl/posts/hello/</guid>
-      <description>Someone who has checked out this site before might have noticed it, for the longest time, had a dreadful &amp;ldquo;403 Forbidden&amp;rdquo; error. Oops.
-The reason for this is pretty simple: I never bothered to set up a site and configure Nginx with it. It tried to access static content, failed because there was no index.html, tried a directory listing, also failed there because it is not configured to allow this and well, there we are.</description>
+      <description>First post ever on this blog!</description>
     </item>
     
   </channel>

@@ -6,15 +6,23 @@
     <description>Recent content in software on Nano&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 20:09:04 +0100</lastBuildDate><atom:link href="https://www.nanosector.nl/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 19:20:00 +0100</lastBuildDate><atom:link href="https://www.nanosector.nl/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autostarting, auto-updating, rootless Podman containers</title>
+      <link>https://www.nanosector.nl/posts/podman-rootless-autostart/</link>
+      <pubDate>Sun, 16 Jan 2022 19:20:00 +0100</pubDate>
+      
+      <guid>https://www.nanosector.nl/posts/podman-rootless-autostart/</guid>
+      <description>Pods for picky perfectionists</description>
+    </item>
+    
     <item>
       <title>Windows 10 on old Macs without Boot Camp</title>
       <link>https://www.nanosector.nl/posts/skip-boot-camp-old-mac/</link>
       <pubDate>Sun, 28 Feb 2021 20:09:04 +0100</pubDate>
       
       <guid>https://www.nanosector.nl/posts/skip-boot-camp-old-mac/</guid>
-      <description>Installing Windows 10 on older Macs is still possible but may be tricky because Apple doesn&amp;rsquo;t officially support this. Boot Camp Assistant has an internal list of Windows 7-only Macs in its Info.plist. With some hackery and foolery you therefore are able to trick it into installing Windows 10 on an otherwise unsupported Mac. Partially.
-I prefer to take the manual route and taking full control over this process. There are a number of hurdles to overcome.</description>
+      <description>Such a pain...</description>
     </item>
     
   </channel>
